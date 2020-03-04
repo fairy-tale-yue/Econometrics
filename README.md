@@ -1,2 +1,2 @@
-# learngit
-Creating a new branch is quick and simpl.
+# Econometrics
+Git is a free software.
